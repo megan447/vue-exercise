@@ -15,3 +15,12 @@ a {
 button {
   color: purple;
 }
+.background {
+  background-color: pink;
+}
+.red-background {
+  background-color: red;
+}
+.green-background {
+  background-color: green;
+}
